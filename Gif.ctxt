@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Gif
+comment0.text=\r\n\ Contains\ the\ properties\ of\ GifImage,\ \r\n\ with\ additinal\ features\ such\ as\ adding\ the\ images\ onto\ the\ screen\ directly\ without\ calling\ it\ elsewhere\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ Edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=i\ x\ y
+comment1.target=Gif(GifImage,\ int,\ int)
+comment2.params=delay
+comment2.target=greenfoot.GreenfootImage\ getImage(int)
+numComments=3

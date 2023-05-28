@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HitEffect
+comment0.text=\r\n\ Contain\ the\ animation\ effect\ of\ different\ projectiles\ when\ it\ explodes\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ Edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=void\ checkRemove()
+comment1.text=\r\n\ Checks\ if\ the\ effect\ ends\ and\ removes\ it\ from\ the\ world\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getImage()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InstructionButton
+comment0.text=\r\n\ The\ button\ that\ leads\ playes\ into\ the\ instruction\ page\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=file_name\ l\ w
+comment1.target=InstructionButton(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ detectClick()
+comment3.text=\r\n\ sets\ world\ to\ Game\ if\ mouse\ clicked\ on\ this\r\n
+comment4.params=
+comment4.target=void\ checkHover()
+comment4.text=\r\n\ Changes\ the\ size\ if\ mouse\ hovers\ over\ the\ button\r\n
+numComments=5

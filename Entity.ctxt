@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Entity
+comment0.text=\r\n\ Includes\ all\ entities\ in\ the\ game,\ including\ towers,\ enemies,\ and\ projectiles\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=x\ y
+comment2.target=double\ distanceFrom(int,\ int)
+comment2.text=\r\n\ returns\ the\ distance\ from\ this\ instance\ to\ the\ coordinate\ (x,y)\r\n
+comment3.params=x\ y
+comment3.target=void\ move(int,\ int)
+comment3.text=\r\n\ Gradually\ moves\ the\ instance\ to\ the\ coordinate\ (x,y)\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getImage()
+comment5.params=
+comment5.target=void\ displayUpgrade()
+comment5.text=\r\n\ Displays\ the\ upgrade\ button\ onto\ the\ screen\ when\ mouse\ clicks,\ removes\ it\ otherwise\r\n
+comment6.params=
+comment6.target=int\ getCost()
+numComments=7

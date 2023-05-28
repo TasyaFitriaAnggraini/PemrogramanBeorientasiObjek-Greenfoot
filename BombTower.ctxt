@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BombTower
+comment0.text=\r\n\ A\ type\ of\ tower\ -\ Bomb\ Tower\!\r\n\r\n\ @author\ (Benny\ Wu)\r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=tile
+comment1.target=BombTower(TowerTile)
+comment2.params=game
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ displayLevel()
+numComments=5

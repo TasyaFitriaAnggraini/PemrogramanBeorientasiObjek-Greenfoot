@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BombExplosion
+comment0.text=\r\n\ A\ type\ of\ hit\ effect\ -\ Bomb\ Bxplosion\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ Edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=x\ y\ damage\ large_explosion
+comment1.target=BombExplosion(int,\ int,\ double,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkIntersect()
+comment4.params=x\ y
+comment4.target=void\ changeSize(int,\ int)
+numComments=5

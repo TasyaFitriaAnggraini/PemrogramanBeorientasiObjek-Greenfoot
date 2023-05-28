@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TowerTile
+comment0.text=\r\n\ Provides\ the\ towers\ a\ position\ to\ be\ placed\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ Edited\ (Jan\ 17,\ 2021)\r\n
+comment1.params=x\ y
+comment1.target=TowerTile(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ detectClick()
+comment3.text=\r\n\ Detects\ if\ the\ mouse\ clicks\ on\ this;\ if\ so,\ displays\ the\ three\ tower\ options\ \r\n
+comment4.params=
+comment4.target=void\ displayOptions()
+numComments=5

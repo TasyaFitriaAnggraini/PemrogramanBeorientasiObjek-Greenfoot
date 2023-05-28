@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=UpgradeButton
+comment0.text=\r\n\ This\ type\ of\ button\ allows\ players\ to\ upgrade\ towers\ and\ gold\ mines\r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=entity
+comment1.target=UpgradeButton(Entity)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ detectClick()
+comment3.text=\r\n\ returns\ true\ if\ mouse\ click\ on\ this\ object,\ false\ otherwise\r\n
+comment4.params=
+comment4.target=void\ checkHover()
+comment4.text=\r\n\ Changes\ the\ size\ if\ mouse\ hovers\ over\ the\ button\r\n
+comment5.params=
+comment5.target=void\ setLabel()
+comment6.params=appear
+comment6.target=void\ displayCost(boolean)
+comment7.params=
+comment7.target=void\ remove()
+numComments=8

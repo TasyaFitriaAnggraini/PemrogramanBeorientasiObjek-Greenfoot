@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ Contains\ the\ properties\ of\ every\ level,\ and\ it\ is\ being\ passed\ into\ the\ Game\ class\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ Edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=length\ width\ level\ background\ pathOne\ pathTwo\ tiles
+comment1.target=Level(int,\ int,\ int,\ greenfoot.GreenfootImage,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=file
+comment2.target=Level(java.io.File)
+comment3.params=wave
+comment3.target=void\ changeWave(int)
+comment3.text=\r\n\ Changes\ the\ wave\ within\ a\ game\ to\ an\ integer\r\n
+comment4.params=
+comment4.target=int\ getLevel()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getBackground()
+comment6.params=
+comment6.target=java.lang.String\ getPathOne()
+comment7.params=
+comment7.target=java.lang.String\ getPathTwo()
+comment8.params=
+comment8.target=java.lang.String\ getTiles()
+comment9.params=
+comment9.target=java.util.ArrayList\ getEnemy()
+numComments=10

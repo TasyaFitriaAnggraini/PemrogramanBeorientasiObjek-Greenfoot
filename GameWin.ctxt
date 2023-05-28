@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameWin
+comment0.text=\r\n\ This\ is\ the\ screen\ that\ gets\ to\ be\ displayed\ after\ the\ player\ wins\ the\ game\r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=game
+comment1.target=GameWin(Game)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ displayResult()
+comment3.text=\r\n\ Displays\ the\ three\ lines\ of\ labels\ indicating\ the\ player's\ stats\r\n
+comment4.params=
+comment4.target=void\ walkingYoshi()
+comment4.text=\r\n\ Puts\ a\ funny\ yoshi\ onto\ the\ screen\r\n
+numComments=5

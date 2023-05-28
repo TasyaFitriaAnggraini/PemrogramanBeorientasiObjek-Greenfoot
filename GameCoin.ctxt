@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameCoin
+comment0.text=\r\n\ Displays\ the\ player's\ coins\ on\ the\ top-left\ corner\ of\ the\ screen\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=GameCoin()
+comment2.params=coin
+comment2.target=void\ updateCoin(int)
+numComments=3

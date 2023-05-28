@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Instruction
+comment0.text=\r\n\ This\ is\ the\ instruction\ page\ that\ teaches\ players\ how\ to\ play\ the\ game\r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=Instruction()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getImage()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ controlGifs()
+numComments=6

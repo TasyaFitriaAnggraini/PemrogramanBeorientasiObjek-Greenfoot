@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExplodeButton
+comment0.text=\r\n\ Button\ of\ "Mr\ Chan's\ Power"\r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 66,\ 2077)\r\n
+comment1.params=
+comment1.target=ExplodeButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ detectClick()
+comment3.text=\r\n\ returns\ true\ if\ mouse\ click\ on\ this\ object,\ false\ otherwise\r\n
+comment4.params=
+comment4.target=void\ checkHover()
+comment4.text=\r\n\ Changes\ the\ size\ if\ mouse\ hovers\ over\ the\ button\r\n
+comment5.params=appear
+comment5.target=void\ displayWord(boolean)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fireball
+comment0.text=\r\n\ A\ type\ of\ projectile\ -\ fireball\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=target\ tower
+comment1.target=Fireball(Enemy,\ Tower)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Throws\ fireball\ towards\ enemy\r\n
+comment3.params=damage
+comment3.target=void\ setDamage(int)
+comment4.params=
+comment4.target=void\ disappear()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getImage()
+numComments=6

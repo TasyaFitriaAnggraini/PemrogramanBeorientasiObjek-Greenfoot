@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Snail
+comment0.text=\r\n\ A\ type\ of\ enemy\ -\ snail\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=speed\ health\ coins\ x\ y
+comment1.target=Snail(double,\ double,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DropCoin
+comment0.text=\r\n\ Displays\ the\ a\ gif\ when\ an\ enemy\ dies,\ or\ when\ the\ gold\ mine\ spawns\ a\ new\ coin\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=DropCoin()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getImage()
+numComments=4

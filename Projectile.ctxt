@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Contains\ all\ weapons/projectiles\ that\ towers\ possess\r\n\ \r\n\ @author\ (Benny\ Wu)\ \r\n\ *\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=
+comment1.target=void\ splashDamage()
+comment2.params=increase
+comment2.target=void\ setDamage(double)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

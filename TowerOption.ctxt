@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TowerOption
+comment0.text=\r\n\ Allows\ the\ players\ to\ place\ different\ towers\ using\ different\ options\r\n\ \r\n\ @author\ (Benny\ Wu)\ \ \r\n\ Last\ edited\ (Jan\ 20,\ 2021)\r\n
+comment1.params=button\ cost
+comment1.target=TowerOption(greenfoot.GreenfootImage,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=appear
+comment3.target=void\ displayCost(boolean)
+comment3.text=\r\n\ Displays\ cost\ beside\ an\ object\r\n
+comment4.params=
+comment4.target=void\ checkHover()
+comment4.text=\r\n\ Changes\ the\ size\ if\ mouse\ hovers\ over\ the\ button\r\n
+comment5.params=
+comment5.target=int\ getCoin()
+comment6.params=cost
+comment6.target=void\ setCost(int)
+comment7.params=
+comment7.target=void\ setLabel()
+numComments=8

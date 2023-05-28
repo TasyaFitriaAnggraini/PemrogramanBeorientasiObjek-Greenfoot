@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bat
+comment0.text=\r\n\ A\ type\ of\ enemy\ -\ bat\r\n\r\n\ @author\ (Benny\ Wu)\r\n\ Last\ edited\ (Jan\ 18,\ 2021)\r\n
+comment1.params=speed\ health\ coins\ x\ y
+comment1.target=Bat(double,\ double,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=ouch
+comment3.target=void\ takeDamage(double)
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getImage()
+numComments=5
